@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:element name="price" type="xs:string"/>
+<xs:element name="id" type="xs:string"/>
+<xs:element name="name" type="xs:string"/>
+<auctionlist>
+  <note>
+    <id>100</id>
+    <name>laptop asus pro</name>
+    <price>600</price>
+  </note>
+  <note>
+    <id>110</id>
+    <name>laptop dell</name>
+    <price>700</price>
+  </note>
+  <note>
+    <id>120</id>
+    <name>laptop acer z100</name>
+    <price>800</price>
+  </note>
+  <note>
+    <id>130</id>
+    <name>macbook pro 2019</name>
+    <price>1000</price>
+  </note>
+  <note>
+    <id>140</id>
+    <name>macbook pro 2007</name>
+    <price>600</price>
+  </note>
+  <note>
+    <id>150</id>
+    <name>laptop pro 2008</name>
+    <price>800</price>
+  </note>
+  <note>
+    <id>160</id>
+    <name>laptop pro 2009</name>
+    <price>900</price>
+  </note>
+  <note>
+    <id>170</id>
+    <name>macbook air 2006</name>
+    <price>700</price>
+  </note>
+  <note>
+    <id>180</id>
+    <name>macbook air 2007</name>
+    <price>800</price>
+  </note>
+  <note>
+    <id>190</id>
+    <name>macbook air 2008</name>
+    <price>1000</price>
+  </note>
+  <note>
+    <id>200</id>
+    <name>macbook air 2009</name>
+    <price>800</price>
+  </note>
+  <note>
+    <id>210</id>
+    <name>macbook air 2010</name>
+    <price>900</price>
+  </note>
+  <note>
+    <id>220</id>
+    <name>macbook air 2011</name>
+    <price>700</price>
+  </note>
+  <note>
+    <id>300</id>
+    <name>house Q1</name>
+    <price>2000</price>
+  </note>
+  <note>
+    <id>310</id>
+    <name>boeing 747</name>
+    <price>1000000</price>
+  </note>
+  <note>
+    <id>330</id>
+    <name>table apple 2019</name>
+    <price>900</price>
+  </note>
+</auctionlist>
